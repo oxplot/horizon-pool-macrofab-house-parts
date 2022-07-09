@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "MF-RES-0402-680K"
+    ],
+    "base": "44fe0594-19d5-403e-9ae8-7c4c59c3668f",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/Panasonic_TF_Resistors.pdf"
+    ],
+    "description": [
+        false,
+        "Resistor Thick Film 0402 680K Ohm 5% 100mW 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "680000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "b5f309a4-8fca-5581-ba2d-b72393430a32",
+    "value": [
+        false,
+        "680 kΩ"
+    ]
+}

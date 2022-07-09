@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "MF-RES-0603-255K"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/Panasonic_TF_Resistors.pdf"
+    ],
+    "description": [
+        false,
+        "Resistor Thick Film 0603 255K Ohm 1% 100mW 75V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "255000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "55b63e01-5743-587a-9c9a-d22bd869d09a",
+    "value": [
+        false,
+        "255 kΩ"
+    ]
+}

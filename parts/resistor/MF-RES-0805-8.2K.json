@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "MF-RES-0805-8.2K"
+    ],
+    "base": "0aaa5955-e860-49fa-9b04-c3fe2d4bc010",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/Panasonic_TF_Resistors.pdf"
+    ],
+    "description": [
+        false,
+        "Resistor Thick Film 0805 8.2K Ohm 5% 125mW 150V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "8200"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "aa9b3e77-bac2-5fc1-9b8d-165b4b5fdd0d",
+    "value": [
+        false,
+        "8.2 kΩ"
+    ]
+}
