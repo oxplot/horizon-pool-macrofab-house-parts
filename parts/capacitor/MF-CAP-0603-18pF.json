@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0603-18pF"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/KEM_C1003_C0G_SMD-379434.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0603 18pF 5% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "0.000000000018",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3ac6d3b7-2464-5863-97a7-157583535fad",
+    "value": [
+        false,
+        "18 pF"
+    ]
+}

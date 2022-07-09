@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-22pF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM1555C1H220JA01D.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 22pF 5% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "0.000000000022",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "076f83c7-56c8-55c9-bc1a-50d3eb29826f",
+    "value": [
+        false,
+        "22 pF"
+    ]
+}

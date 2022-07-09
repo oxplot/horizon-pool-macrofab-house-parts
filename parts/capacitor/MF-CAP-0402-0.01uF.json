@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-0.01uF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/VJ_W1BC_Caps.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 0.01uF 5% 25V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "0.00000001",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "0a7962b6-4922-5818-baf6-d38d70b86bfe",
+    "value": [
+        false,
+        "10 nF"
+    ]
+}

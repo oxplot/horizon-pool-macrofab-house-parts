@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-1206-10uF"
+    ],
+    "base": "7537f389-14a5-43a6-9b2a-100266cd51d8",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/C3216X5R1C106M160AA-265193.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 1206 10uF 10% 16V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "0.00001",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "31d1b500-0f66-5b6d-84f6-3391dd81e519",
+    "value": [
+        false,
+        "10 uF"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0805-1uF"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/UMK212F105ZG-T_SS.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0805 1uF -20%, +80% 16V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "",
+        "type": "Y5V",
+        "value": "0.000001",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "73b910fc-c0a9-50b7-ab6e-d560f8948f76",
+    "value": [
+        false,
+        "1 uF"
+    ]
+}

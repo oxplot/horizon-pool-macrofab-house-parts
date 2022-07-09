@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-0.1uF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM155R71C104KA88.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 0.1uF 10% 16V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "0.0000001",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "17bc9b3f-2027-5745-8716-9a671450a495",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

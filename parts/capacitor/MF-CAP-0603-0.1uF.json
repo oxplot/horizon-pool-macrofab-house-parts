@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0603-0.1uF"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM188R71E104KA01D.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0603 0.1uF 10% 25V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "0.0000001",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4a2f6bb5-c602-59e5-a67c-e2915385c5ec",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

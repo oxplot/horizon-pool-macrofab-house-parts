@@ -15,7 +15,7 @@
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
-        false,
+        true,
         ""
     ],
     "parametric": {

@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-4.7nF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM155R71H472JA01D.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 4.7nF 5% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "0.0000000047",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "51b8ee30-4844-5149-b408-919f476fc95c",
+    "value": [
+        false,
+        "4.7 nF"
+    ]
+}

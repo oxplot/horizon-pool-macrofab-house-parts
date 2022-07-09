@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-27pF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM1555C1H270JA01D.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 27pF 5% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "0.000000000027",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3bf8b0c8-8e45-57c4-a3f8-17035bf73af5",
+    "value": [
+        false,
+        "27 pF"
+    ]
+}

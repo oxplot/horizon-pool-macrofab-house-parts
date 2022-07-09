@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-1uF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/C1005X5R1C105K050BC-264364.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 1uF 10% 16V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "0.000001",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "70c12b90-ce04-55e9-a69e-f2eff4555b51",
+    "value": [
+        false,
+        "1 uF"
+    ]
+}

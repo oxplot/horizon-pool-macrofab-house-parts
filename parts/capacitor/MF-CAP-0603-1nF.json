@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0603-1nF"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/KEM_C1002_X7R_SMD.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0603 1nF 10% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "0.000000001",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "1e3703ec-2ea1-58a2-9c20-60d7fbaa0f16",
+    "value": [
+        false,
+        "1 nF"
+    ]
+}

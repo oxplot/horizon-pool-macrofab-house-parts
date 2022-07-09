@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0805-0.1uF"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/KEM_C1005_Y5V_SMD-357824.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0805 0.1uF -20% +80% 50V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "",
+        "type": "Y5V",
+        "value": "0.0000001",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7bbb4057-9db1-5358-af9e-4877fcdd9ea8",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

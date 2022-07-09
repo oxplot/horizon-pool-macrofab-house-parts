@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0402-8.2pF"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/GRM1555C1E8R2CA01D.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0402 8.2pF +/-0.25pF 25V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "",
+        "type": "C0G/NP0",
+        "value": "0.0000000000082",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "dda743e9-4ee2-57f0-8636-e308090e7851",
+    "value": [
+        false,
+        "8.2 pF"
+    ]
+}

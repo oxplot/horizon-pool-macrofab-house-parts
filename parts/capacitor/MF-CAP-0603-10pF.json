@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0603-10pF"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/mfprodpublic/datasheets/mlcc_commercial_general_en.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0603 10pF 50V C0G +/- 0.5pF"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "",
+        "type": "C0G/NP0",
+        "value": "0.00000000001",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "68045eb2-e1bd-54b1-903f-4c0a41c9c91d",
+    "value": [
+        false,
+        "10 pF"
+    ]
+}

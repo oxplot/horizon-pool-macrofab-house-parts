@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MF-CAP-0603-1uF"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "https://s3.amazonaws.com/devpublic1/datasheets/TMK107B7105KA-T_SS.pdf"
+    ],
+    "description": [
+        false,
+        "Capacitor MLCC 0603 1uF 10% 25V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "0.000001",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "81361a19-a177-58fa-9409-79b6971f24fb",
+    "value": [
+        false,
+        "1 uF"
+    ]
+}
